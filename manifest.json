@@ -1,0 +1,6 @@
+{
+    "title": "貪食蛇遊戲",
+    "description": "一個簡單的貪食蛇遊戲，使用HTML、CSS、JavaScript和Python後端。",
+    "tags": ["game", "snake", "html", "css", "javascript", "python"],
+    "license": "MIT"
+}
