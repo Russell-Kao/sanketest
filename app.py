@@ -6,5 +6,4 @@ app = Flask(__name__)
 def get_data():
     return jsonify({'message': 'Hello from the backend!'})
 
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+# 移除 app.run()，因為無伺服器環境會自動處理
